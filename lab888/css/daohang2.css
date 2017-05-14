@@ -1,0 +1,61 @@
+*{
+
+	padding: 0px;
+
+	margin: 0px;
+
+}
+#titlediv{
+
+	background-image: url(../images/header.png);
+
+	width: 210px;
+
+	height: 60px;
+
+	color: green;
+
+	text-align: center;
+
+	padding-top: 2px;
+	background-repeat: no-repeat;
+
+}
+ul{
+
+	background-image: url(../images/bj.png);
+	width: 400px;
+	height: 380px;
+	background-repeat: no-repeat;
+	list-style-type: none;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+ul li{
+	text-align:center
+	color: gray;
+
+	width: 500px;
+
+	margin-left: 40px;
+
+	height: 20px;
+
+	padding-top: 20px;
+
+	background-image: url(../images/baibiaoti.png);
+
+	background-repeat: no-repeat;
+
+	background-position: -3em 90%;
+	text-decoration: none;
+
+
+}
+.jia{
+	background-image: url(../images/lvbiaoti.png);
+	color: white;
+	font-weight: bold;
+
+}
