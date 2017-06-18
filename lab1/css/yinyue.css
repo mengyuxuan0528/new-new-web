@@ -1,0 +1,132 @@
+*{ 
+	margin:0;
+	padding:0; 
+	border:0; 
+	list-style:none;
+}
+body{ 
+	width:950px;
+	background-image: url(../images/2.jpg); 	 
+	margin:0 auto;}
+.top{ 
+	width:950px; 
+	height:200px; 
+	background-image:url(../images/top.jpg); 
+	background-repeat: no-repeat; }
+ .img1{
+ 	width: 170px;
+ 	height: 130px;
+ 	position: absolute;
+	margin-left:10px;
+	top:38px;
+ }
+.top .wenben{ 
+	width:197px; 
+	height:25px; 
+	line-height:25px; 
+	border:#e27f5b 2px solid; 
+	float:right; 
+	margin:30px 30px 0 0; 
+	background:#f8e6e0; 
+	padding-left:3px}
+.top .sousu{ 
+	float:right; 
+	width:50px; height:24px; 
+	line-height:20px; 
+	font-family:"微软雅黑"; 
+	font-size:14px; 
+	border:#e27f5b 1px solid; 
+	margin:32px 10px 0 0; }
+.nav{ 
+	width:950px; 
+	height:40px; 
+	background:#993300;} 
+.nav ul li{ 
+	width:100px; 
+	height:40px; 
+	float:left; 
+	font-family:"微软雅黑"; 
+	font-size:14px; 
+	line-height:40px; 
+	text-align:center; 
+	margin:0px 20px; 
+	color:#FFFFFF;}
+.nav a{ 
+	text-decoration:none; 
+	color:#FFF;}
+.nav ul li a:hover{ 
+	width:100px; 
+	height:40px; 
+	line-height:40px;
+	 background:#dc581d; 
+	 display:block;} 
+.dan{ 
+	width:250px; 
+	height:30px;}
+
+.pic{ 
+	width:940px;}
+.pic img{ 
+	margin-left:40px; 
+	margin-top:20px;}
+
+.fnav p{ 
+	padding:30px; 
+	color:#333;}
+.wenhua{ 
+	width:950px; 
+	background:url(../images/t13.jpg);}
+.wenhua p{ 
+	padding:20px; 
+	line-height:25px; 
+	font-size:14px;  
+	background:rgba(255,255,255,0.3); 
+	font-weight:bold;}
+
+.meishi{ 
+	width:950px; 
+	height:330px; 
+	float:left; 
+	margin-top:25px;}
+.meishi span{ 
+	width:230px; 
+	float:left;
+	 margin-left:5px; 
+	 border:1px solid #999; 
+	 height:330px;}
+.meishi span p{ 
+	font-size:12px;  
+	color:#666; 
+	line-height:18px;
+	 padding:9px;}
+.yinyue{ 
+	width:950px; 
+	margin:0 auto;}
+.yinyue p{ 
+	text-align:center;
+	font-family:"微软雅黑"; 
+	font-size:16px;
+	 line-height:26px; 
+	 color: #300;}
+.yinyue .geci{ 
+	width:500px; 
+	text-align:center;
+	margin:0 auto; 
+	font-family:"微软雅黑";
+	 font-size:14px; 
+	 line-height:26px;
+	  padding-bottom:30px;
+	   color:#660000;}
+.meishi img{ 
+	opacity:0.5;}
+.meishi img:hover{
+ opacity:1;}
+.zuihou{
+	width: 900px;
+	height: 100px;
+	color: #000000;
+	margin-left: 50px;
+	text-align: center;
+}
+
+
