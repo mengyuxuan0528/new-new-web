@@ -1,0 +1,119 @@
+/*body{
+	height: 750px;
+}*/
+.header{
+	width: 1300px;
+	height: 205px;
+	background-image: url(../images/banner.jpg);
+
+}
+.banner img{
+	margin-top: 35px;
+	margin-left: -800px;
+}
+.haha{/*border: 1px #FF0000 solid;*/
+	width: 220px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 200px;
+	background-image: url(../images/beijing.png);
+}
+.hh{
+	/*border: 1px #FF0000 solid;*/
+	font-size: 12px;
+	width: 220px;
+	height: 270px;
+}
+.hh a{
+	color: #000;
+}
+.hh a:hover{
+	text-decoration: none;
+	color: #FF0000;
+}
+.hehe ul li{
+	float: left;
+	margin-left: 20px;
+}
+.im{
+	/*border: 1px #FF0000 solid;*/
+	width: 220px;
+	height: 260px;
+	margin-top: 140px;
+	margin-left: 200px;
+	background-image: url(../images/beijing.png);
+}
+.im a{
+	color: #000;
+}
+.im a:hover{
+	color: #FF0000;
+	text-decoration: none;
+}
+.news_list{/*border: 1px #FF0000 solid;*/
+	width: 500px;
+	height: 300px;
+	margin-top: -400px;
+	margin-left: 540px;
+
+}
+.opinion{/*border: 1px #FF0000 solid;*/
+	width: 500px;
+	height: 50px;
+}
+
+.ul ul{/*border: 1px #FF0000 solid;*/
+	width: 500px;
+	height: 248px;
+	float: left;
+	margin-top: -300px;
+}
+.ul ul li{
+	float: left;
+	margin-left: 20px;
+}
+.news_list2{/*border: 1px #FF0000 solid;*/
+	width: 500px;
+	height: 300px;
+	margin-top: -330px;
+	margin-left: 540px;
+
+}
+.zheng{
+	width: 500px;
+	height: 50px;
+
+}
+.li ul{
+	width: 500px;
+	height: 248px;
+	float: left;
+	}
+.li ul li{
+	float: left;
+	margin-left: 20px;
+
+}
+.content_xuhao{
+	
+	float: right;
+	margin-top: 32px;
+	margin-right:260px;
+	width: 500px;
+}
+.content_xuhao1 a{
+	color: #000;
+	font-size: 14px;
+}
+.footer{
+	height: 80px;
+	margin-top: 60px;
+	margin-left: 5px;
+	font-size: 12px;
+	text-align: center;
+}
+.footer img{
+	width: 800px;
+	height: 1px;
+}
+

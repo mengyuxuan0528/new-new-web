@@ -1,0 +1,80 @@
+.content{
+	/*border: 1px #FF0000 solid;*/
+	width: 600px;
+	height: 680px;
+	margin-left: 180px;
+	margin-top: 10px;
+	float: left;
+}
+.wenzhang{/*border: 1px #FF0000 solid;*/
+	width: 600px
+	height:160px;
+
+}
+p{text-align: left;
+
+}
+.data{/*border: 1px #FF0000 solid;*/
+	width: 600px;
+	height: 300px;
+}
+.data:hover
+{ opacity: 0.5;
+}
+.data img
+{
+
+            display:inline;
+   }
+.data a:hover img {
+
+border:1px solid #333333;
+
+}
+.pian{/*border: 1px #FF0000 solid;*/
+	
+	width: 600px;
+	height: 20px;
+	text-align: left;
+	margin-top: 20px；
+}
+.pian a{
+	color: #FF00FF;
+}
+.tuwen{/*border: 1px #FF0000 solid;*/
+	width: 200px;
+	height: 288px;
+	text-align: center;
+	float: right;
+	margin-top: 10px;
+	margin-right: -50px;
+	background-image: url(../images/beij.jpg);
+}
+.sofware{/*border: 1px #FF0000 solid;*/
+	width: 200px;
+	height: 260px;
+	margin-top: 8px;
+}
+.sofware ul li a{
+	float: left;
+	margin-left: 6px;
+}
+.music{/*border: 1px #FF0000 solid;*/
+	
+	width: 200px;
+	height: 300px;
+	float: right;
+	margin-right: -50px;
+	margin-top: 14px;
+	background-image: url(../images/music.jpg);
+}
+.ge a{
+	color: #D2691E;
+
+}
+.ge a:hover{
+	color: #7FFF50;
+	text-decoration: none;
+}
+
+

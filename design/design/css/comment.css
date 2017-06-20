@@ -1,0 +1,21 @@
+.luiyanban{ 
+	width:950px; 
+	background-image: url(../images/pinglun.jpg);}
+.chongzhi{ 
+	width:50px; 
+	height:25px; 
+	border:#CCCCCC 1px solid; 
+	border-radius:5px;
+	 background:#e8e6e5; margin:10px;}
+
+.luiyanban{ 
+	width:500px; 
+	margin:0 auto; 
+	padding-bottom:0px;}
+.luiyanban_z .xingbei{ margin:10px; }
+.luiyanban_z .xingqu{ margin:10px;}
+.luiyan{
+	 width:490px; 
+	 height:300px; 
+	 border:#dcc6ba 1px solid;
+	  padding:5px; }
