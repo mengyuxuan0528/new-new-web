@@ -87,11 +87,11 @@ body{
 	width:950px; 
 	height:330px; 
 	float:left; 
-	margin-top:25px;}
+	margin-top:0px;}
 .meishi span{ 
 	width:230px; 
 	float:left;
-	 margin-left:5px; 
+	 margin-left:3px; 
 	 border:1px solid #999; 
 	 height:330px;}
 .meishi span p{ 
@@ -128,5 +128,22 @@ body{
 	margin-left: 50px;
 	text-align: center;
 }
-
+.lb{
+	width: 950px;
+	height: 40px;
+	font-size: 19px;
+	text-align: left;
+	margin-top: 0px;
+	background-color: #f9f0eb;
+}
+.wenzi{
+	border: 1px #000000 solid;
+}
+.wenzi p{ 
+	width: 400px;
+	padding:20px; 
+	line-height:25px; 
+	font-size:14px;  
+	background:rgba(255,255,255,0.3); 
+	font-weight:bold;}
 

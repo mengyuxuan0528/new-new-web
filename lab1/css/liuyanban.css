@@ -69,27 +69,35 @@ body{
 	border:#CCCCCC 1px solid; 
 	border-radius:5px;
 	 background:#e8e6e5; margin:10px;}
+
 .luiyanban{ 
 	width:500px; 
 	margin:0 auto; 
-	padding-bottom:450px;}
+	padding-bottom:0px;}
 .luiyanban_z .xingbei{ margin:10px; }
 .luiyanban_z .xingqu{ margin:10px;}
 .luiyan{
 	 width:495px; 
-	 height:150px; 
+	 height:300px; 
 	 border:#dcc6ba 1px solid;
 	  padding:5px; }
 .zuihou{
 	width: 900px;
 	height: 100px;
 	color: #000000;
-	float: left;
-	margin-left: -20px; 
+	margin-left: -220px;
 	margin-bottom: 0px;
 	text-align: center;
 }
-
+.mianbaoxie{
+	width: 950px;
+	height: 40px;
+	font-size: 19px;
+	text-align: left;
+	margin-top: 0px;
+	background-color: #f9f0eb;
+	
+}
 
 
 

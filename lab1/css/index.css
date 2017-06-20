@@ -7,7 +7,47 @@
 body{ 
 	width:950px;
 	background-image: url(../images/2.jpg); 	 
-	margin:0 auto;}
+	margin:0 auto;
+	margin-top: 20px;
+}
+.kaitou{
+	width: 950px;
+	height: 230px;
+	background:#f9f0eb;
+}
+.zhucebiao{
+	width: 390px;
+	height: 250px;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	margin-left: 20px;
+
+}
+.xiaotu{
+	width: 300px;
+	height: 200px;
+	background-image: url(../images/t3.jpg);
+	background-repeat: no-repeat;
+	float: right;
+	margin-right: 330px;
+	margin-top:-248px; 
+	
+	
+}
+.redian  {
+	width: 390px;
+	height: 250px;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	float: right;
+	margin-top: -250px;
+	margin-right:-90px;
+	
+}
+.redian a{
+	color: #000000;
+	text-decoration:none;	
+}
 .top{ 
 	width:950px; 
 	height:200px; 
@@ -58,8 +98,8 @@ body{
 	width:100px; 
 	height:40px; 
 	line-height:40px;
-	 background:#dc581d; 
-	 display:block;} 
+	background:#dc581d; 
+	display:block;} 
 
 .nr_z{ 
 	width:950px; 
